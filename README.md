@@ -1,2 +1,2 @@
-# md.wlanboy.com
-github page for [md.wlanboy.com](https://md.wlanboy.com) using A record and CAA record
+# md
+github page for using A record and CAA record
